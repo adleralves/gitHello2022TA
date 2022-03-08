@@ -4,3 +4,6 @@ v1.0
 
 Testando git
 v1.1
+
+Ultimo teste
+v1.2
